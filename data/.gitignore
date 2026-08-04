@@ -1,0 +1,4 @@
+*.npz
+*.h5ad
+*.tsv
+*.log
